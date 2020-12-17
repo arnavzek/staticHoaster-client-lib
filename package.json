@@ -1,0 +1,14 @@
+{
+  "name": "uponjs",
+  "version": "1.0.1",
+  "description": "A platform for creating apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arnav Singh",
+  "license": "ISC",
+  "dependencies": {
+    "browser-image-compression": "^1.0.13"
+  }
+}
